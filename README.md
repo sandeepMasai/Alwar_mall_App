@@ -116,4 +116,4 @@ The project uses Vite for fast development and bundling. During development, Vit
 When you're ready to create a production-ready build of the app, run:
 
 ```bash
-npm run build
+npm run build 
